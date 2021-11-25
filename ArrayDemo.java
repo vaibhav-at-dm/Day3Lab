@@ -7,7 +7,7 @@ public class ArrayDemo {
         arr1 = new int[]{10,20,30};
 //        arr1[0] = 10;
 //        arr1[1] = 20;
-//        arr1[2] = 30;
+//        arr1[2] = 40;
 
         for (int i = 0;i< arr1.length;i++)
         {
@@ -43,5 +43,6 @@ public class ArrayDemo {
             }
             System.out.println();
         }
+// Checking Git Modification
     }
 }
