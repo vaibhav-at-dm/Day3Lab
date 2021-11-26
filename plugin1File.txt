@@ -3,7 +3,12 @@ Plugin1 modified by pl2 dev
 
 Done with the plugin 1 
 
-Plugin1 Modified by Master
- 
-This is Final Done by Dev2 of pl2 and main
+Plugin1 Modified by Master!1
+
+This is Final
+
+Finally resolved by pl1
+
+
+
 
